@@ -4,6 +4,6 @@ A collaborative project to build an evolving website/wiki to host, enhance, link
 
 Inspired from https://github.com/gtechatfg/WikiSyllabus
 
-- [How to Contribute ?]()
+[How to Contribute ?]()
 
-## HAPPY HACKING!
+### Happy Hacking!
