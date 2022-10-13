@@ -1,0 +1,4 @@
+- [](Wikisyllabus/SUMMARY.md)
+- [KTU](./Wikisyllabus/KTU/SUMMARY.md)
+  - [2019_Scheme](./Wikisyllabus/KTU/2019_Scheme/SUMMARY.md)
+    - [S1 & S2](./Wikisyllabus/KTU/2019_Scheme/S1-S2/SUMMARY.md)
